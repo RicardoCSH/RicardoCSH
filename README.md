@@ -4,6 +4,9 @@ Sou Ricardo Costa programador front end, atualmente apreendendo e criando projet
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+Conhecimentos:<br>
+Linux, asterisk, telefonia voip, redes..
+<br><br>
 
 
 - iniciando Javascript e React.
